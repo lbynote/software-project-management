@@ -36,7 +36,8 @@ proprietary: relating to an owner or ownership.
 
 The software is owned by a company, which sets out many restrictions on use, modification and distribution. We need to pay (explicitly or implicitly) before we can use it.
 
-**Mini assignment**(no submission required): read a proprietary software license and figure out the described.
+**Mini assignment**(no submission required): read a proprietary software license and figure out the described.  
+The mini assignment asks you to read a license from a proprietary software. e.g., the one from Microsoft's OneNote:[https://support.office.com/en-us/article/Microsoft-software-license-terms-Microsoft-OneNote-419E41C9-1F2B-41AE-91CD-E119043F0887]( https://support.office.com/en-us/article/Microsoft-software-license-terms-Microsoft-OneNote-419E41C9-1F2B-41AE-91CD-E119043F0887)(MIT licenses are not for proprietary software).
 
 # free and open-source software
 These software are usually free of charge.  
